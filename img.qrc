@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icons.PNG</file>
+        <file>img/jauge.PNG</file>
+        <file>img/stripes-light.png</file>
+        <file>img/1.PNG</file>
+        <file>img/10.PNG</file>
+        <file>img/11.PNG</file>
+        <file>img/12.PNG</file>
+        <file>img/13.PNG</file>
+        <file>img/14.PNG</file>
+        <file>img/15.PNG</file>
+        <file>img/16.PNG</file>
+        <file>img/17.PNG</file>
+        <file>img/18.PNG</file>
+        <file>img/19.PNG</file>
+        <file>img/2.PNG</file>
+        <file>img/20.PNG</file>
+        <file>img/3.PNG</file>
+        <file>img/4.PNG</file>
+        <file>img/5.PNG</file>
+        <file>img/6.PNG</file>
+        <file>img/7.PNG</file>
+        <file>img/8.PNG</file>
+        <file>img/9.PNG</file>
+        <file>img/equival.png</file>
+        <file>img/faible.png</file>
+        <file>img/forte.png</file>
+        <file>img/inter.png</file>
+        <file>img/sup.png</file>
+        <file>img/undo.png</file>
+    </qresource>
+</RCC>
